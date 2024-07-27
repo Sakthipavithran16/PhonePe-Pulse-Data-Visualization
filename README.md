@@ -30,5 +30,55 @@ Use the Streamlit and Plotly libraries in Python to create an interactive and vi
 Plotly's built-in geo map functions can be used to display the data on a map and 
 Streamlit can be used to create a user-friendly interface with multiple dropdown options for users to select different facts and figures to display.
 
-### Data retrieval: Use the "mysql-connector-python" library to connect to the MySQL database and fetch the data into a Pandas dataframe.
+### Data retrieval: 
+Use the "mysql-connector-python" library to connect to the MySQL database and fetch the data into a Pandas dataframe.
+
+
+## Tools used
+
+1. Github cloning
+2. Python
+3. Pandas
+4. MYSQL database
+5. Streamlit
+6. PLotly
+
+## Key skills
+
+1. Data extraction and processing
+2. Database management
+3. Visualization and dashboard creation
+4. Geo visualization
+5. Dynamic updating
+
+
+## Dashboard Overview
+
+This dashboard has three main sections :
+
+### Home
+
+This section contains about the PhonePe and PhonePe pulse data which is used for data analysis.
+
+### Data Visualization 
+
+This section contains two parts Country Analysis and State Analysis
+
+#### 1. Country Analysis
+
+This section has the live geo visualization dashboard that displays information and insights about the transaction, Insurance and users data for Country analysis.
+
+#### 2. State Analysis
+
+This section has different visualizations and facts and figures that displays information and insights for State level analysis for transaction, Insurance and users data.
+
+
+### Top Insights
+
+This section contains dashboard that have 10 different dropdown options for users to select different facts and figures to display.
+
+
+
+
+
 
