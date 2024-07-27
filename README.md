@@ -80,11 +80,11 @@ This section contains dashboard that have 10 different dropdown options for user
 
 ### Dashboard Images
 
-![Home](https://github.com/Sakthipavithran16/PhonePe-Pulse-Data-Visualization/blob/main/Home.PNG)
-![Country1](https://github.com/Sakthipavithran16/PhonePe-Pulse-Data-Visualization/blob/main/country1.PNG)
-![Country2](https://github.com/Sakthipavithran16/PhonePe-Pulse-Data-Visualization/blob/main/country%202.PNG)
-![state](https://github.com/Sakthipavithran16/PhonePe-Pulse-Data-Visualization/blob/main/state.PNG)
-![top](https://github.com/Sakthipavithran16/PhonePe-Pulse-Data-Visualization/blob/main/top.PNG)
+![Home](https://github.com/Sakthipavithran16/PhonePe-Pulse-Data-Visualization/blob/main/Dashboard_image/Home.PNG)
+![Country1](https://github.com/Sakthipavithran16/PhonePe-Pulse-Data-Visualization/blob/main/Dashboard_image/country1.PNG)
+![Country2](https://github.com/Sakthipavithran16/PhonePe-Pulse-Data-Visualization/blob/main/Dashboard_image/country%202.PNG)
+![state](https://github.com/Sakthipavithran16/PhonePe-Pulse-Data-Visualization/blob/main/Dashboard_image/state.PNG)
+![top](https://github.com/Sakthipavithran16/PhonePe-Pulse-Data-Visualization/blob/main/Dashboard_image/top.PNG)
 
 
 ### References
