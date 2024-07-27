@@ -75,7 +75,14 @@ This section has different visualizations and facts and figures that displays in
 
 ### Top Insights
 
-This section contains dashboard that have 10 different dropdown options for users to select different facts and figures to display.
+This section contains dashboard that have 10 different dropdown options for users to select different facts to display for valuable insights and information about the data, making it a valuable tool for data analysis and decision-making.
+
+
+### References
+
+**Dataset** : https://github.com/PhonePe/pulse#readme
+
+**Inspired From** : https://www.phonepe.com/pulse/explore/transaction/2022/4/
 
 
 
