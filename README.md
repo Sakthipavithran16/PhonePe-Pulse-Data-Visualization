@@ -78,6 +78,11 @@ This section has different visualizations and facts and figures that displays in
 This section contains dashboard that have 10 different dropdown options for users to select different facts to display for valuable insights and information about the data, making it a valuable tool for data analysis and decision-making.
 
 
+### Dashboard Images
+
+![Home](https://github.com/Sakthipavithran16/PhonePe-Pulse-Data-Visualization/blob/main/Home.PNG)
+
+
 ### References
 
 **Dataset** : https://github.com/PhonePe/pulse#readme
